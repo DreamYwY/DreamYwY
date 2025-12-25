@@ -6,8 +6,10 @@
 ### 🛠️ Performance & Clean Code focused
 
 
+
 # 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/zaharyy_) [![email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zaharywy@gmail.com) 
+
 
 
 # 💻 Tech Stack:
