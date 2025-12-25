@@ -1,6 +1,6 @@
 # 🖐 Hi, I'm Zakhar
 <p>
-  <font size="6">
+  <font size="61">
     💚 Android Developer with 1 year of experience <br>
     🏗️ Commercial & educational projects <br>
     🔌 Backend & API integration <br>
