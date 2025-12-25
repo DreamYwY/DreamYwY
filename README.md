@@ -1,6 +1,9 @@
-# 💫 About Me:
-Android Developer (1 yr exp) | Commercial & Edu apps | API Integration | 5 years in Game Development
-
+# 🖐 Hi:
+📱 Android Developer with 1 year of experience 
+🏗️ Commercial & educational projects
+🔌 Backend & API integration 
+🎮 5 years in Game Development
+🛠️ Performance & Clean Code focused
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zaharyy_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zaharywy@gmail.com) 
