@@ -1,9 +1,13 @@
 # 🖐 Hi, I'm Zakhar
-<sup>💚 Android Developer with 1 year of experience</sup> <br>
-<sup>🏗️ Commercial & educational projects</sup> <br>
-<sup>🔌 Backend & API integration</sup> <br>
-<sup>🎮 5 years in Game Development</sup> <br>
-<sup>🛠️ Performance & Clean Code focused</sup>
+<p>
+  <font size="4">
+    💚 Android Developer with 1 year of experience <br>
+    🏗️ Commercial & educational projects <br>
+    🔌 Backend & API integration <br>
+    🎮 5 years in Game Development <br>
+    🛠️ Performance & Clean Code focused
+  </font>
+</p>
 
 # 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/zaharyy_) [![email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zaharywy@gmail.com)  
