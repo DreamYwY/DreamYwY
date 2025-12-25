@@ -1,4 +1,4 @@
-# 🖐 Hi:
+# 🖐 Hi, I'm Zakhar
 📱 Android Developer with 1 year of experience 
 🏗️ Commercial & educational projects
 🔌 Backend & API integration 
