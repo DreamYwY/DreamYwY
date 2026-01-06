@@ -6,7 +6,7 @@
 🛠️ Performance & Clean Code focused  
 
 # 🌐 Socials:
-[![Telegram](https://img.shields.io/badge/Telegram-%23249BED.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/zaharywy)
+[![Telegram](https://img.shields.io/badge/Telegram-%23249BED.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/DreamYwY)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zakhar-koryakin-3181793a3/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/zaharyy_) 
 [![email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zaharywy@gmail.com)
