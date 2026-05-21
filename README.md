@@ -1,5 +1,6 @@
 # 🖐 Hi, I'm Zakhar
 💚 Android Developer
+
 🏗️ Commercial & educational projects  
 🔌 Backend & API integration  
 🎮 5 years in Game Development  
