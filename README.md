@@ -1,5 +1,5 @@
 # 🖐 Hi, I'm Zakhar
-💚 Android Developer with 1 year of experience  
+💚 Android Developer
 🏗️ Commercial & educational projects  
 🔌 Backend & API integration  
 🎮 5 years in Game Development  
